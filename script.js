@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // 1. Dados dos Projetos (MOCK DATA)
     const PROJECTS_DATA = {
         "Power BI": [
-            { id: 1, title: "Dashboard de Vendas SaaS", subtitle: "KPIs e Previsão de Churn", description: "Criação de um painel de controle interativo para rastrear métricas de SaaS, como MRR, ARR e análise preditiva de clientes. Ferramenta essencial para tomada de decisão estratégica.", link: "https://exemplo.com/powerbi/vendas", image: "dashboard-vendas-saas.jpg" },
+            { id: 1, title: "Dashboard de Vendsavdsdas SaaS", subtitle: "KPIs e Previsão dvsvdse Churn", description: "Criação devsdvsd um painel de controle interativo para rastrear métricas de SaaS, como MRR, ARR e análise preditiva de clientes. Ferramenta essencial para tomada de decisão estratégica.", link: "https://app.powerbi.com/view?r=eyJrIjoiMDA0Y2VmN2QtZjNiYi00MjEwLWFjYzItY2YwMzg2MzllNmYwIiwidCI6ImY5NTUwY2NjLWNiZmQtNGUxNy1iNWJmLTE3ODAxNmUwOGVhZCJ9", image: "img/RelFuncP.png" },
             { id: 2, title: "Relatório de Gestão de Frota", subtitle: "Otimização de Custos", description: "Implementação de um relatório dinâmico que cruza dados de telemetria e custos operacionais, identificando rotas ineficientes e potencial de economia de combustível.", link: "https://exemplo.com/powerbi/frota", image: "relatorio-frota.jpg" },
             { id: 3, title: "Análise Financeira Completa", subtitle: "DRE, Balanço e Fluxo de Caixa", description: "Conjunto de visuais para monitoramento da saúde financeira da empresa, permitindo drill-down em despesas e receitas por centro de custo.", link: "https://exemplo.com/powerbi/financeiro", image: "analise-financeira.jpg" },
         ],
