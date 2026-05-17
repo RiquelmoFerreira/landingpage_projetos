@@ -15,8 +15,8 @@
     --white: #fff;
     --dark: #333; 
     --blue: #dbba2a;
-    --blue-light: #F7D228;
-    --orange: #F7D228;
+    --blue-light: #f7d228;
+    --orange: #f7d228;
 
     /* Variáveis principais para o corpo do projeto (mantendo a consistência) */
     --primary-blue: var(--blue);
