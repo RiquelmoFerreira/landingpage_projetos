@@ -132,7 +132,7 @@ body{
     display: flex;
     align-items: center;
     text-decoration: none;
-    color: #dbba2a; 
+    color: var(--orange);
     cursor: pointer;
     transition: opacity 0.3s;
 }
