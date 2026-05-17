@@ -18,14 +18,14 @@
     --blue-light: #f7d228;
     --orange: #f7d228;
 
-    /* Variáveis principais para o corpo do projeto (mantendo a consistência) */
+    /* Variáveis principais para o corpo do projeto (mantendo a consistência) f5f5f5 */
     --primary-blue: var(--blue);
     --secondary-blue: var(--blue-light);
-    --light-gray: #f5f5f5;
+    --light-gray: #333;
 }
 body{
     color: var(--dark);
-    background: #333; 
+    background: var(--dark);
     padding-top: 70px; /* Espaço para o menu fixo */
 }
 
