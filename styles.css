@@ -25,7 +25,7 @@
 }
 body{
     color: var(--dark);
-    background: var(--dark); 
+    background: #333; 
     padding-top: 70px; /* Espaço para o menu fixo */
 }
 
