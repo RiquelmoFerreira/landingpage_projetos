@@ -16,7 +16,7 @@
     --dark: #333; 
     --blue: #0a0a0a;
     --blue-light: #363636;
-    --orange: #dbba2a;
+    --orange: #DBBA2A;
 
     /* Variáveis principais para o corpo do projeto (mantendo a consistência)  */
     --primary-blue: var(--blue);
