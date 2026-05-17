@@ -14,9 +14,9 @@
     --red:#339ade; /* Reduzida para 'primary-light-blue' */
     --white: #fff;
     --dark: #333; 
-    --blue: #14349A;
-    --blue-light: #2D55CC;
-    --orange: #DE9400;
+    --blue: #dbba2a;
+    --blue-light: #F7D228;
+    --orange: #F7D228;
 
     /* Variáveis principais para o corpo do projeto (mantendo a consistência) */
     --primary-blue: var(--blue);
